@@ -18,11 +18,12 @@ Just a girl learning to code & break into STEM! 🚀
 ---
 
 ### 📊 GitHub Stats:
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=latashalauren&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=latashalauren&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=latashalauren&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latashalauren&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
