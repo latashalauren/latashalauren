@@ -38,11 +38,16 @@ Just a girl learning to code & break into STEM! 🚀
 
 ### 👩‍💻 Projects:
 
-- **Pokemon Top Trumps Game**  
-  - Practicing Data Structures & Algorithms in Python  
+<p align="center">
+  <strong>Pokemon Top Trumps Game</strong> <br>
+  <a href="https://github.com/latashalauren/Pokemon-Top-Trumps">Pokemon Top Trumps in Python</a>
+</p>
 
-- **Full Stack Web App (React, NodeJS, Azure, ML Components)**  
-  - Image Analysis Middleware *(Potentially NSFW)*  
+<p align="center">
+  <strong>Simple Calculator</strong> <br>
+  <a href="https://github.com/latashalauren/Simple-Calculator">Simple calculator in Java</a>
+</p>
+ 
 
 ---
 
